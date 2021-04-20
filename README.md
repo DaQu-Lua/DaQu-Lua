@@ -2,4 +2,4 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on servers fivem
-- 📫 How to reach me, email: daqudeveloper@gmail.com
+- 📫 How to reach me, email: daqudeveloper@gmail.com 
